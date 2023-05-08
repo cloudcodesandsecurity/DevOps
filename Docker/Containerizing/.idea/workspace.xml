@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f055eb89-f322-4333-8e55-b368f163babf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../CI-CD/jenkins/About Jenkins.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CI-CD/jenkins/Steps to create Docker CI in Jenkins.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../CI-CD/jenkins/Steps to create Docker CI in Jenkins.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CI-CD/jenkins/Steps to create a Job.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../CI-CD/jenkins/Steps to create a Job.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Containers_Docker/Containers.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Containers_Docker/Steps_to_create_docker_image.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vprofile-project/Docker-files/app/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/vprofile-project/Docker-files/app/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vprofile-project/Docker-files/db/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/vprofile-project/Docker-files/db/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vprofile-project/Docker-files/web/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/vprofile-project/Docker-files/web/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vprofile-project/vprofile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IP mapping with Hostname &amp; Remote command Execution.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../IP mapping with Hostname &amp; Remote command Execution.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Python Fabric.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scripts/Python scripts.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scripts/Python scripts.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PCOE0cevjEmIBFwiKRXygaMqfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/gitrepos/cloudcodesandsecurity/DevOps/Docker/Containerizing Project (Vagrantfile) project"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f055eb89-f322-4333-8e55-b368f163babf" name="Changes" comment="" />
+      <created>1682957484346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682957484346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
